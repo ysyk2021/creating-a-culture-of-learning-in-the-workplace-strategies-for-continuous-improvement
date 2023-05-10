@@ -1,4 +1,4 @@
-Chapter 10: Creating a Sustainable Learning Culture: Ensuring Continuous Improvement
+Ensuring Continuous Improvement
 ====================================================================================
 
 Creating a sustainable learning culture in the workplace requires a commitment to continuous improvement. In this chapter, we'll explore strategies for ensuring that learning initiatives are effective, efficient, and aligned with organizational goals and objectives.

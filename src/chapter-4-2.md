@@ -1,4 +1,4 @@
-Chapter 4: Identifying Learning Opportunities: Recognizing Organizational Learning Needs
+Recognizing Organizational Learning Needs
 ========================================================================================
 
 Identifying learning opportunities is essential for creating a culture of continuous learning in the workplace. This chapter will explore strategies for recognizing organizational learning needs and identifying opportunities for growth and development.
