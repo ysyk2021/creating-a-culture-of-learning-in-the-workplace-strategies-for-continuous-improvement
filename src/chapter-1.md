@@ -1,1 +1,0 @@
-ChatGPT error 429: { "error": { "message": "Rate limit reached for default-gpt-3.5-turbo in organization org-P9imMgDg9MOODFkz1kXvwBoK on tokens per min. Limit: 90000 / min. Current: 88970 / min. Contact us through our help center at [help.openai.com](http://help.openai.com) if you continue to have issues.", "type": "tokens", "param": null, "code": null } }
