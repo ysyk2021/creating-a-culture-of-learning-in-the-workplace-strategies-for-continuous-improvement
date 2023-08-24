@@ -1,5 +1,3 @@
-Building a Learning Community
-========================================================================
 
 Encouraging a learning culture involves creating a workplace environment that values and prioritizes ongoing growth and development. This chapter will explore strategies for building a learning community in the workplace.
 

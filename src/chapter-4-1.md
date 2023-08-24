@@ -1,4 +1,3 @@
-# Identifying Individual Learning Needs and Interests
 
 Identifying individual learning needs and interests is essential for developing a learning mindset in the workplace. In this chapter, we will explore techniques for identifying learning opportunities and developing the skills needed to thrive in the modern workplace.
 

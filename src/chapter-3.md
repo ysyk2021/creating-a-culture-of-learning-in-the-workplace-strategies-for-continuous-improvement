@@ -1,5 +1,3 @@
-Chapter 3: Developing a Learning Mindset
-========================================
 
 Developing a learning mindset is essential for creating a culture of continuous learning and improvement in the workplace. This chapter will explore techniques for cultivating a learning mindset, including positive self-talk, goal-setting, and empathy.
 

@@ -1,5 +1,3 @@
-Understanding the Science Behind a Learning Culture
-===========================================================================================
 
 Understanding the science behind a learning culture is essential for organizations that want to create a workplace environment that supports continuous improvement and growth. In this chapter, we will focus on the research and theories that support the concept of a learning culture.
 

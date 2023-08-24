@@ -1,4 +1,3 @@
-# Incorporating Learning into Organizational Values and Goals
 
 Creating a sustainable learning culture is essential for organizations to promote continuous learning and growth among their employees. In this chapter, we will explore techniques for incorporating learning into organizational values and goals, enabling individuals and organizations to create a culture of continuous learning and improvement.
 

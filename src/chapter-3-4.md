@@ -1,5 +1,3 @@
-Developing Empathy and Compassion Through Learning
-============================================================================================
 
 Developing a learning mindset involves cultivating a sense of motivation and engagement towards ongoing growth and development. In addition to setting realistic goals and objectives, another key aspect of this is developing empathy and compassion through learning.
 

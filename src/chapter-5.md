@@ -1,5 +1,3 @@
-Chapter 5: Developing Effective Learning Strategies
-===================================================
 
 Effective learning strategies are essential for creating a culture of learning in the workplace. This chapter will explore ways to develop effective learning strategies that support ongoing growth and development.
 

@@ -1,5 +1,3 @@
-Identifying Common Sources of Resistance to Learning
-================================================================================================
 
 Resistance to learning can be a significant barrier to creating a culture of continuous learning in the workplace. This chapter will explore common sources of resistance to learning and offer strategies for managing resistance.
 

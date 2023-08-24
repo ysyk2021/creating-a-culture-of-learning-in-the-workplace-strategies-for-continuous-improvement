@@ -1,5 +1,3 @@
-Fostering a Growth Mindset
-======================================================================
 
 Fostering a growth mindset is essential for managing resistance to learning in the workplace. This chapter will explore strategies for promoting a growth mindset and encouraging ongoing growth and development.
 

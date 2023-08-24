@@ -1,4 +1,3 @@
-# Developing Strategies for Active Learning
 
 Active learning is a critical component of effective learning strategies in the workplace. In this chapter, we will explore techniques for developing strategies that promote active learning and engagement among individuals.
 

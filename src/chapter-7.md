@@ -1,5 +1,3 @@
-Chapter 7: Managing Resistance to Learning
-==========================================
 
 Resistance to learning can be a significant barrier to creating a culture of continuous learning and improvement in the workplace. This chapter will explore ways to effectively manage resistance to learning.
 

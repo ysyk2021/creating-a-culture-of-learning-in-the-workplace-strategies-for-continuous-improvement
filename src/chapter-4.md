@@ -1,5 +1,3 @@
-Chapter 4: Identifying Learning Opportunities
-=============================================
 
 Identifying learning opportunities is a critical step in creating a culture of learning in the workplace. This chapter will explore ways to effectively identify learning opportunities that support ongoing growth and development.
 

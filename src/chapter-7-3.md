@@ -1,4 +1,3 @@
-# Addressing Fear and Uncertainty
 
 Managing resistance to learning is a key challenge in creating a culture of continuous learning and growth in the workplace. In this chapter, we will explore techniques for addressing fear and uncertainty, which are common causes of resistance to learning.
 

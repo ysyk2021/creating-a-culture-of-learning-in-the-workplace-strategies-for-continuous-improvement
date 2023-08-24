@@ -1,5 +1,3 @@
-Assessing Your Current Workplace Culture
-================================================================================
 
 Assessing your current workplace culture is an important first step in creating a culture of learning in the workplace. In this chapter, we will focus on how to assess your current workplace culture and identify areas for improvement.
 

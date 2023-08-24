@@ -1,5 +1,3 @@
-Overview of a Learning Culture
-======================================================================
 
 Defining a learning culture is essential for organizations that want to create a workplace environment that supports continuous improvement and growth. In this chapter, we will provide an overview of what a learning culture looks like and why it is important.
 

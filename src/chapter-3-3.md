@@ -1,5 +1,3 @@
-Setting Realistic Goals and Objectives
-================================================================================
 
 Developing a learning mindset involves cultivating a sense of motivation and engagement towards ongoing growth and development. One key aspect of this is setting realistic goals and objectives for learning.
 

@@ -1,5 +1,3 @@
-Chapter 8: Leveraging Technology for Learning
-=============================================
 
 Technology has revolutionized the way we learn and work, and it has become an essential tool for creating a culture of learning in the workplace. This chapter will explore ways to effectively leverage technology for learning initiatives.
 

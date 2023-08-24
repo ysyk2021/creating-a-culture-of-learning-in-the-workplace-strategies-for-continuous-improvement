@@ -1,5 +1,3 @@
-Chapter 2: Defining a Learning Culture
-======================================
 
 In order to create a culture of learning in the workplace, it is important to understand what a learning culture entails. This chapter will provide an overview of a learning culture, explore the science behind it, and offer guidance for assessing your current workplace culture.
 

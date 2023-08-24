@@ -1,5 +1,3 @@
-Chapter 6: Encouraging a Learning Culture
-=========================================
 
 Encouraging a culture of learning is essential for creating an environment in which individuals are motivated and empowered to continuously grow and develop. This chapter will explore ways to encourage a learning culture within the workplace.
 

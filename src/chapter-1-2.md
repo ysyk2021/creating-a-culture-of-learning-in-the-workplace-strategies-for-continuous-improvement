@@ -1,5 +1,3 @@
-Common Misconceptions About Learning in the Workplace
-==============================================================================
 
 There are many common misconceptions about learning in the workplace that can hinder organizations from creating a culture of continuous learning and improvement. In this chapter, we will address some of these misconceptions and provide clarity on what a true culture of learning looks like.
 

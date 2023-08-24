@@ -1,4 +1,3 @@
-# Techniques for Cultivating a Learning Mindset
 
 Developing a learning mindset is critical for success in the workplace. A learning mindset involves a commitment to continuous learning, growth, and self-improvement. In this chapter, we will explore techniques for cultivating a learning mindset and developing the skills needed to thrive in the modern workplace.
 

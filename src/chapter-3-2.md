@@ -1,4 +1,3 @@
-# Utilizing Positive Self-Talk and Visualization
 
 Developing a learning mindset is essential for success in the workplace. A learning mindset involves a commitment to continuous learning, growth, and self-improvement. In this chapter, we will explore techniques for cultivating a learning mindset by utilizing positive self-talk and visualization.
 

@@ -1,5 +1,3 @@
-Identifying Learning Technologies and Resources
-==============================================================================================
 
 Leveraging technology for learning is becoming increasingly popular in the workplace. With the rise of digital tools and resources, organizations have more opportunities to offer flexible, personalized, and engaging learning experiences to their employees. In this chapter, we'll explore strategies for identifying learning technologies and resources.
 

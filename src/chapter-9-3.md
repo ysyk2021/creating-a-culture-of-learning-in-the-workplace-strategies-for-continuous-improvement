@@ -1,5 +1,3 @@
-Continuous Learning and Improvement
-==============================================================================================
 
 In order to create a culture of learning in the workplace, it is essential to continuously measure and evaluate the effectiveness of learning initiatives. This chapter will explore strategies for measuring results and learning from experience in order to promote continuous learning and improvement.
 

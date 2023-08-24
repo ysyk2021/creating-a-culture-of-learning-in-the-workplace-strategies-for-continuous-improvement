@@ -1,5 +1,3 @@
-Avoiding Information Overload
-============================================================================
 
 Technology can be a powerful tool for learning, but it also has the potential to overwhelm individuals with too much information. This chapter will explore ways to effectively leverage technology for learning while avoiding information overload.
 

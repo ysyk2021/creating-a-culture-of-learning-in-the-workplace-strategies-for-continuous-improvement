@@ -1,5 +1,3 @@
-Chapter 10: Creating a Sustainable Learning Culture
-===================================================
 
 Creating a sustainable learning culture involves more than just offering training programs or courses. It requires incorporating learning into organizational values and goals, developing long-term strategies, fostering innovation and creativity, and ensuring continuous improvement. In this chapter, we'll explore strategies for creating a sustainable learning culture.
 

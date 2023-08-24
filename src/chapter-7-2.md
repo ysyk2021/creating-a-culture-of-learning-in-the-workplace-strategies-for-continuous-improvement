@@ -1,5 +1,3 @@
-Developing Strategies for Overcoming Resistance
-===========================================================================================
 
 Resistance to learning can be a significant barrier to creating a culture of continuous learning in the workplace. This chapter will explore strategies for overcoming resistance and promoting ongoing growth and development.
 

@@ -1,5 +1,3 @@
-Fostering Accessibility and Inclusivity
-======================================================================================
 
 Technology has the potential to foster accessibility and inclusivity in learning, making it easier for all individuals to access learning opportunities. This chapter will explore ways to effectively leverage technology to foster accessibility and inclusivity in learning.
 

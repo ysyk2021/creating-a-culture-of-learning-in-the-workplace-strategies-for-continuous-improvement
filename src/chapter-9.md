@@ -1,5 +1,3 @@
-Chapter 9: Measuring Results and Learning from Experience
-=========================================================
 
 In order to create a culture of learning in the workplace, it is important to not only provide opportunities for learning but also to track progress and measure results. This chapter will explore ways to effectively measure the impact of learning initiatives and use that information to continuously improve.
 
