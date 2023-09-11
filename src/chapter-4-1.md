@@ -1,5 +1,4 @@
-Chapter 4: Identifying Individual Learning Needs and Interests
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial process of identifying individual learning needs and interests within the workplace. Understanding what motivates employees to learn and grow is fundamental to creating a culture of continuous improvement.
 

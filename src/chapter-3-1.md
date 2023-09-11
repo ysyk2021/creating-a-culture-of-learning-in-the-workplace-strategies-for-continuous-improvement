@@ -1,5 +1,4 @@
-Chapter 13: Techniques for Cultivating a Learning Mindset
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into techniques for cultivating a learning mindset within the workplace, a critical element for establishing a culture of continuous improvement and growth.
 

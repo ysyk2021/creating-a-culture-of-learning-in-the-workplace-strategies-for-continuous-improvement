@@ -1,5 +1,4 @@
-Chapter 11: Fostering Collaboration and Teamwork
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into strategies for fostering collaboration and teamwork within the workplace, highlighting how these elements are essential for creating a culture of learning and continuous improvement.
 

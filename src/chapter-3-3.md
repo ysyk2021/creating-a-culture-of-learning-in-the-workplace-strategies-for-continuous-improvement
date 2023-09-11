@@ -1,5 +1,4 @@
-Chapter 10: Setting Realistic Goals and Objectives
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting realistic goals and objectives as a foundational step in creating a culture of learning and continuous improvement in the workplace.
 

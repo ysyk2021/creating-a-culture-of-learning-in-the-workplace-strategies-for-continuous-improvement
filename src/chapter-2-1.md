@@ -1,5 +1,4 @@
-Chapter 1: Overview of a Learning Culture
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will explore the fundamental concepts and principles of a learning culture within the workplace. Understanding the essence of a learning culture is the first step toward implementing effective strategies for continuous improvement.
 

@@ -1,5 +1,4 @@
-Chapter 5: Fostering Accessibility and Inclusivity
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's diverse and dynamic workplaces, fostering accessibility and inclusivity is not just a moral imperative; it is also a strategic advantage. Organizations that prioritize creating an inclusive and accessible culture tend to have higher levels of employee engagement, innovation, and overall performance. This chapter explores strategies for fostering accessibility and inclusivity within your workplace to promote continuous improvement and a culture of learning.
 

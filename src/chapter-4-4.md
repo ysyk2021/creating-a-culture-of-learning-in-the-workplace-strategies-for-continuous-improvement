@@ -1,5 +1,4 @@
-Chapter 4: Addressing Barriers to Learning
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the common barriers that can hinder the development of a learning culture within the workplace and explore strategies to overcome these obstacles.
 

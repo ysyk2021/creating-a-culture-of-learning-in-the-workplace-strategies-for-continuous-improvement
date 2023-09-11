@@ -1,5 +1,4 @@
-Chapter 3: Recognizing Organizational Learning Needs
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of recognizing organizational learning needs as a foundational step in creating a culture of learning in the workplace and driving continuous improvement.
 

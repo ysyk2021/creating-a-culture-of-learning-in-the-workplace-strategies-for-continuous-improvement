@@ -1,5 +1,4 @@
-Chapter 6: Identifying Common Sources of Resistance to Learning
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common sources of resistance to learning within the workplace. Understanding these barriers is crucial for developing effective strategies to overcome resistance and foster a culture of continuous improvement.
 

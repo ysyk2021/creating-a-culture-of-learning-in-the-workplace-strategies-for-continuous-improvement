@@ -1,5 +1,4 @@
-Chapter 12: Utilizing Positive Self-Talk and Visualization
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful techniques of positive self-talk and visualization as valuable tools for fostering a culture of learning and continuous improvement in the workplace.
 

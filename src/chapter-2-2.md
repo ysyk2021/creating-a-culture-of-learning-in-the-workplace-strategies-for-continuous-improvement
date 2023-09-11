@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Science Behind a Learning Culture
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the scientific principles and psychological insights that underpin the creation and sustenance of a learning culture within the workplace. Understanding the science behind learning can help organizations implement more effective strategies for continuous improvement.
 

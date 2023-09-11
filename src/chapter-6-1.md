@@ -1,5 +1,4 @@
-Chapter 5: Providing Training and Professional Development Opportunities
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical role that providing training and professional development opportunities plays in cultivating a culture of learning in the workplace and driving continuous improvement.
 
